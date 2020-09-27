@@ -1,4 +1,3 @@
-#In Search of an Easy Problem
 #1030A
 
 n=int(input())
@@ -13,4 +12,3 @@ if x==-1:
     print("HARD")
 else:
     print("EASY")
-    
