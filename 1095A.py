@@ -1,5 +1,5 @@
 #1095A
-#Repeating Cipher
+
 length=int(input())
 cipher=input()
 text=""
